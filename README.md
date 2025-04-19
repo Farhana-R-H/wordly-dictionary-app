@@ -10,7 +10,7 @@ Wordly Dictionary App is a simple and elegant web-based dictionary application t
 -  Light/Dark mode (if applicable)
 -  Responsive design for mobile and desktop
 
-## 🛠 TECH STACK:
+##  TECH STACK:
 
 - HTML/CSS/JavaScript
 - (React.js / Bootstrap / Tailwind — Add what applies)
